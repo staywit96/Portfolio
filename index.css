@@ -554,6 +554,7 @@ footer span {
     width: 9rem;
     height: 4rem;
     border: 1px solid #FAFAFF;
+    cursor:pointer;
 }
 
 input::placeholder {
